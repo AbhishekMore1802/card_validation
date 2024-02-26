@@ -1,6 +1,8 @@
 def cc_validation(CardNumber):
      
     Total_digits = len(CardNumber)
+     if Total_digits == 0:
+          return False
     Sum_of_digits = 0
     isSecond = False
      
