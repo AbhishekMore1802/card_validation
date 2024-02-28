@@ -1,6 +1,6 @@
 using System;
  
-class GFG {
+class ANM {
      
 
 static bool ccvalidation(String cardnumber)
